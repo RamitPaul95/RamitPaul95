@@ -30,7 +30,7 @@ An Engineer passionate about learning new things everyday.<br><br>1. Data Scient
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RamitPaul95&theme=radical&hide_border=false)<br/>
 
 <div>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/RamitPaul95">
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamitPaul95&layout=compact&langs_count=16&theme=dracula"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
