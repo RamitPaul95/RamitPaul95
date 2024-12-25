@@ -36,10 +36,5 @@ An Engineer passionate about learning new things everyday.<br><br>1. Data Scient
   </a>
 </div>
 
-### 📈 GitHub Activity Graph:
-[![Your github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RamitPaul95&theme=github-compact)](https://github.com/RamitPaul95/github-readme-activity-graph)
 
----
-
-![Snake animation](https://github.com/{{RamitPaul95}}/{{RamitPaul95}}/blob/output/github-contribution-grid-snake.svg)
 
