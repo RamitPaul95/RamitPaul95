@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**RamitPaul95/RamitPaul95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hey There !! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 
 <p align="center">
@@ -47,4 +43,3 @@ An Engineer passionate about learning new things everyday.<br><br>1. Data Scient
 
 ![Snake animation](https://github.com/{{your-username}}/{{your-username}}/blob/output/github-contribution-grid-snake.svg)
 
--->
