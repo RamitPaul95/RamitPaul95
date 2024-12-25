@@ -8,7 +8,7 @@ Hey There !!
 </p>
 
 # 💫 About Me:
-# Senior AI/ML Engineer at Brillio
+## Senior AI/ML Engineer at Brillio
 
 An **experienced Senior AI/ML Engineer** at **Brillio**, passionate about leveraging **Generative AI**, **Cloud Technologies**, and **Machine Learning** to build transformative AI solutions that drive business growth and operational efficiency. With hands-on experience in developing innovative systems, I thrive on solving complex challenges and delivering impactful results that scale.
 
