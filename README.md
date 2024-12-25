@@ -27,19 +27,19 @@ An Engineer passionate about learning new things everyday.<br><br>1. Data Scient
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RamitPaul95&theme=radical&hide_border=false)<br/>
 
 <div>
   <a href="https://github.com/your-username">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamitPaul95&layout=compact&langs_count=16&theme=dracula"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
 </div>
 
 ### 📈 GitHub Activity Graph:
-[![Your github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-compact)](https://github.com/your-username/github-readme-activity-graph)
+[![Your github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-compact)](https://github.com/RamitPaul95/github-readme-activity-graph)
 
 ---
 
-![Snake animation](https://github.com/{{your-username}}/{{your-username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{RamitPaul95}}/{{RamitPaul95}}/blob/output/github-contribution-grid-snake.svg)
 
