@@ -32,7 +32,16 @@ Dedicated to exploring the forefront of **Generative AI**, **Machine Learning**,
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072B1.svg?style=for-the-badge&logo=azure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23FFFFFF.svg?style=for-the-badge&logo=fastapi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Custom Vision](https://img.shields.io/badge/Custom%20Vision-%2300B0C6.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-%23000000.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
