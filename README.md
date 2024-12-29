@@ -18,7 +18,7 @@ An **experienced Senior AI/ML Engineer** at **Brillio**, passionate about levera
 - **AI-Powered Financial Analysis for SMBs**: Developed a **POC** leveraging large language models (LLMs) to provide small businesses with affordable, data-driven financial insights, enhancing decision-making and cutting overhead costs.
 - **Customer Support Chatbot**: Spearheaded the development of an intelligent chatbot powered by LLMs, optimizing customer query handling and improving support efficiency, thereby increasing customer satisfaction and reducing operational burden.
 - **Multi-Label Classification for Chat Interactions**: Developed a multi-label classification system leveraging LLM, enabling better issue segmentation and improving resolution accuracy, leading to improved customer retention and faster response times.
-- **Internal AI Innovation**: Drove AI innovation within Brillio’s Microsoft Bunsiness business units, fostering cross-functional collaboration, optimizing internal tools, and elevating the technical capabilities of the organization.
+- **Internal AI Innovation**: Drove AI innovation within Brillio’s Microsoft Business Unit, fostering cross-functional collaboration, optimizing internal tools, and elevating the technical capabilities of the organization.
 - **AI Demo Leadership**: Engineered and delivered high-impact demos showcasing the potential of AI solutions, playing a key role in securing client contracts and fostering long-term partnerships.
 - **Research Council Contributions**: Contributed thought leadership through research on emerging AI trends.
 
