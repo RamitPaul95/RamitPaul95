@@ -65,15 +65,6 @@ Dedicated to exploring the forefront of **Generative AI**, **Machine Learning**,
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="custom-vision" width="40" height="40"/>
-  </a>
-  <a href="https://openai.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="azure-openai" width="40" height="40"/>
-  </a>
   <a href="https://www.google.com/search?q=google+gemini" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google-gemini" width="40" height="40"/>
   </a>
