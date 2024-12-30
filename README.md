@@ -39,9 +39,7 @@ Dedicated to exploring the forefront of **Generative AI**, **Machine Learning**,
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Custom Vision](https://img.shields.io/badge/Custom%20Vision-%2300B0C6.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-%23000000.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
