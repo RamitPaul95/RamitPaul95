@@ -14,7 +14,7 @@ An **experienced Senior AI/ML Engineer** at **Brillio**, passionate about levera
 
 ### Key Contributions at Brillio:
 - **Wills Document Querying System**: Led the development of a **Retrieval-Augmented Generation (RAG)** chatbot that revolutionized document management for Wills, enabling accurate, real-time response generation from complex documents.
-- **AI-Driven Cheque Image & Data Extraction**: Designed an automated solution using **Custom Vision AI** and **GPT-4**, streamlining cheque image extraction from PDFs and content extraction from the classified cheque, reducing manual effort, and accelerating data retrieval, leading to significant operational improvements.
+- **AI-Driven Cheque Image & Data Extraction**: Designed an automated solution using **Custom Vision AI** and **GPT-4o**, streamlining cheque image extraction from PDFs and content extraction from the classified cheque, reducing manual effort, and accelerating data retrieval, leading to significant operational improvements.
 - **AI-Powered Financial Analysis for SMBs**: Developed a **POC** leveraging large language models (LLMs) to provide small businesses with affordable, data-driven financial insights, enhancing decision-making and cutting overhead costs.
 - **Customer Support Chatbot**: Spearheaded the development of an intelligent chatbot powered by LLMs, optimizing customer query handling and improving support efficiency, thereby increasing customer satisfaction and reducing operational burden.
 - **Multi-Label Classification for Chat Interactions**: Developed a multi-label classification system leveraging LLM, enabling better issue segmentation and improving resolution accuracy, leading to improved customer retention and faster response times.
